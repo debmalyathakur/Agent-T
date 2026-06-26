@@ -7,7 +7,7 @@ Target System: Linux server running a vulnerable PHP version
 Tools Commonly Used:
 Recon: nmap , curl
 Exploitation: ExploitDB scripts
-Post-Exploitation: linpeas, manual enumeration
+Post-Exploitation: Manual enumeration
 
 
 🔑 Key Learning Points

@@ -5,8 +5,8 @@ Theme: Web exploitation & privilege escalation
 Description: “Something seems a little off with the server.”
 Target System: Linux server running a vulnerable PHP version
 Tools Commonly Used:
-Recon: nmap, ffuf, gobuster
-Exploitation: ExploitDB scripts, Burp Suite, curl
+Recon: nmap , curl
+Exploitation: ExploitDB scripts
 Post-Exploitation: linpeas, manual enumeration
 
 
